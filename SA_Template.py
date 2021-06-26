@@ -41,6 +41,7 @@ while carryOn:
         bally=-bally
     if ball.y<=10:
         bally=-bally
+    #check for ball and paddle collision
    
     pygame.draw.rect(screen,WHITE ,ball)
     pygame.time.wait(20)
