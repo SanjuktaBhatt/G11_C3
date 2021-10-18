@@ -7,5 +7,5 @@ if choice==2:
   print(num1-num2)
 if choice==3:
   print(num1*num2)
-if chocie==4:
+if choice==4:
   print(num1/num2)
